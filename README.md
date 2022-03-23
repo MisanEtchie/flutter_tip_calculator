@@ -1,6 +1,6 @@
 # flutter_tip_calculator
 
-A new Flutter project.
+Simple tip calculator, made using dart and flutter, which enables users to calculate total payment, as well as calculate price per person. 
 
 ## Getting Started
 

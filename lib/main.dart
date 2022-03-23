@@ -33,6 +33,7 @@ class _BillsState extends State<Bills> {
   Widget build(BuildContext context) {
     //assert(debugCheckHasMaterial(context));
     return Scaffold(
+      backgroundColor: Colors.white,
       body: SafeArea(
         child: Container(
           //margin:EdgeInsets.only(top: MediaQuery.of(context).size.height * 0.1),

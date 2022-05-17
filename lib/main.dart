@@ -45,7 +45,7 @@ class _BillsState extends State<Bills> {
             children: [
               Container(
                 height: 150,
-                width: 150,
+                //width: 150,
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(24.0),
                   color: Colors.tealAccent[100],
@@ -99,6 +99,7 @@ class _BillsState extends State<Bills> {
                       keyboardType:
                           TextInputType.numberWithOptions(decimal: true),
                       onChanged: (String value) {
+                        setState(() {});
                         try {
                           bill = double.parse(value);
                         } catch (exception) {

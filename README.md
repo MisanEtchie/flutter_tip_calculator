@@ -2,8 +2,13 @@
 
 Simple tip calculator, made using dart and flutter, which enables users to calculate total payment, as well as calculate price per person. 
 
-![Screenshot_1647986757](https://user-images.githubusercontent.com/56762634/159790219-bd6c8df2-ce7a-47cc-b7ce-7992127b5f5e.png)
-![Simulator Screen Shot - iPhone 13 - 2022-03-23 at 21 22 46](https://user-images.githubusercontent.com/56762634/159790228-3dacddf8-4c9c-4f79-ab87-b7a47993cc9f.png)
+# screenshots
+
+
+
+| Screen1 | Screen2 |
+| ------------- | ------------- |
+| ![Screenshot_1647986757](https://user-images.githubusercontent.com/56762634/159790219-bd6c8df2-ce7a-47cc-b7ce-7992127b5f5e.png)  | ![Simulator Screen Shot - iPhone 13 - 2022-03-23 at 21 22 46](https://user-images.githubusercontent.com/56762634/159790228-3dacddf8-4c9c-4f79-ab87-b7a47993cc9f.png)  |
 
 
 ## Getting Started
